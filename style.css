@@ -6,3 +6,15 @@ h1{
 p{
     font-size: 88px;
 }
+
+
+
+
+
+#image1{
+    width: 20%;
+    display: block;
+    margin: auto;
+    border: solid 4px red;
+    padding: 30px;
+}
